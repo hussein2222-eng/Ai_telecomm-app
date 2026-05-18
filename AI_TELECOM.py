@@ -112,9 +112,7 @@ def home(name):
         # browse slides in website
         st.header("Slides")
         st.write("Here you can add your slides links or descriptions.")
-        st.link_button("Go to Google Drive to Download Slides","https://drive.google.com/file/d/1bIvXEW6EHHURYlWypauDfCIUPcWGMXLZ/view?usp=drive_link")
-        st.write("Preview Slides:")
-        show_pdf("test.pdf")
+        st.link_button("Go to Google Drive to Download Slides","https://drive.google.com/file/d/12ikCYDX4CFGs_rS9pJPMDLP8VRt7jUcV/view?usp=drivesdk")
 
 
     elif option == "IEEE APS":
@@ -211,8 +209,8 @@ def home(name):
 
 
         st.subheader("Whatsapp Group:")
-        st.link_button("Whatsapp Group Link","https://chat.whatsapp.com/DdHO6G4yb9H2qlfDVAGe8i")
-        st.image("training.jpg",width=300)
+        st.link_button("Whatsapp Group Link","https://chat.whatsapp.com/LHbrFu1Bx7L14x80tzMoh9")
+        st.image("training2.jpg",width=300)
     elif option == "Graduation Projects":
         #show_pdf("C:/Users/Mega Store/Downloads/AI_PDF.pdf")
         # slides ideas :
