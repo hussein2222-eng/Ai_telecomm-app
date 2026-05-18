@@ -219,9 +219,9 @@ def home(name):
         # pdf for projects
         st.header("Graduation Projects")
         st.write("Ideas and descriptions for graduation projects go here.")
-        st.link_button("Go to Google Drive to Download pdf","https://drive.google.com/file/d/1bIvXEW6EHHURYlWypauDfCIUPcWGMXLZ/view?usp=drive_link")
+        st.link_button("Go to Google Drive to Download pdf","https://drive.google.com/file/d/1lVxEpOAxLtRrfMjeQliqkQmZGISoaTcg/view?usp=drivesdk")
         st.write("Preview Slides:")
-        show_pdf("test.pdf")
+        show_pdf("TELEOM and AI Grad projects_IEEE SSCS AUSC.pdf")
 
 
         
